@@ -1,0 +1,6 @@
+@Moteqin_HostAddress = http://localhost:5023
+
+GET {{Moteqin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
